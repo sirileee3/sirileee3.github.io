@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: members of the lab or group
 nav: true
-nav_order: 7
+nav_order: 4
 ---
 
 <!-- ===== PI block: put this ABOVE the students grid ===== -->
@@ -37,17 +37,17 @@ nav_order: 7
 <h2 class="people-section-title" id="phd">PhD Students</h2>
 <div class="people-grid">
   <div class="profile-card">
-    <img src="/assets/img/lab_members/Spiderman.jpg" class="profile-img" />
+    <img src="/assets/img/lab_members/spiderman.jpg" class="profile-img" />
     <div class="profile-name">Zitao. Shuai</div>
     <div class="profile-role">CS PhD Student</div>
   </div>
   <div class="profile-card">
-    <img src="/assets/img/lab_members/Spiderman.jpg" class="profile-img" />
+    <img src="/assets/img/lab_members/spiderman.jpg" class="profile-img" />
     <div class="profile-name">Zongzhe. Xu</div>
     <div class="profile-role">CS PhD Student</div>
   </div>
   <div class="profile-card">
-    <img src="/assets/img/lab_members/Spiderman.jpg" class="profile-img" />
+    <img src="/assets/img/lab_members/spiderman.jpg" class="profile-img" />
     <div class="profile-name">Sirui. Li</div>
     <div class="profile-role">Biomath PhD Student</div>
   </div>
@@ -58,17 +58,17 @@ nav_order: 7
 <h2 class="people-section-title" id="interns">Research Interns</h2>
 <div class="people-grid">
   <div class="profile-card">
-    <img src="/assets/img/lab_members/Spiderman.jpg" class="profile-img" />
+    <img src="/assets/img/lab_members/spiderman.jpg" class="profile-img" />
     <div class="profile-name">Shuhan. Xiao</div>
     <div class="profile-role">ECE Master Student</div>
   </div>
   <div class="profile-card">
-    <img src="/assets/img/lab_members/Spiderman.jpg" class="profile-img" />
+    <img src="/assets/img/lab_members/spiderman.jpg" class="profile-img" />
     <div class="profile-name">Shuhan. Xiao</div>
     <div class="profile-role">ECE Master Student</div>
   </div>
   <div class="profile-card">
-    <img src="/assets/img/lab_members/Spiderman.jpg" class="profile-img" />
+    <img src="/assets/img/lab_members/spiderman.jpg" class="profile-img" />
     <div class="profile-name">Shuhan. Xiao</div>
     <div class="profile-role">ECE Master Student</div>
   </div>
